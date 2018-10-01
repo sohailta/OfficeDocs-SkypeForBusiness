@@ -21,6 +21,7 @@ This article discusses cumulative improvements in Skype Room Systems v2.
 
 | Release | Published to <br>Microsoft Store | 
 | ---     | ---                              |
+<!--| 4.0.27.0|  10/1/2018    |   -->
 | 4.0.19.0|  08/31/2018    |   
 | 4.0.18.0|  08/27/2018    |   
 | 4.0.8.0|  07/06/2018    |   
@@ -41,6 +42,13 @@ This article discusses cumulative improvements in Skype Room Systems v2.
 
 
 ## Skype Room Systems v2 feature introduction and issue resolution
+<!--
+### 4.0.27.0 (10/1/2018)
+Introduced in this update: 
+- Windows 10 OS build 1803 is now available for all Skype Room Systems v2 devices
+- Configuration to enable showing clock on Front of Room display even when presence sensor is not available
+- Skype Room System V2 app changes required to support Lync Room System devices. See more [here] (https://aka.ms/lrsupgrade) 
+-->
 
 ### 4.0.19.0 (8/31/2018)
 Introduced in this update: 
