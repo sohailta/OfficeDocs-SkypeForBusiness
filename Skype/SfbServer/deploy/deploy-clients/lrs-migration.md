@@ -56,4 +56,4 @@ We recommend you plan to update Lync Room System devices to Skype Room Systems v
 > Touch and whiteboard functionality is not yet supported in Skype Room System v2. Touch and whiteboard support is in the backlog for Skype Room System v2 and will be added in H1 CY2019.
 
 > [!NOTE]
-> Skype Room System V2 software supports TLS 1.2 protocol since December 14, 2018 with app version 4.0.64.0. For on premise customers, enabling communciation over TLS 1.2 for Skype Room System V2 requires Skype for Business Server 2015 Cummulative Update 9 (CU9) or Skype for Buisness Server 2019 Cummulative Update 1 (CU1). The change should be agnostic to Skype for Business Online customers as client changes are forward and backward compliant. 
+> Skype Room System V2 software supports TLS 1.2 protocol since December 14, 2018 with app version 4.0.64.0. For on premise customers, enabling communciation over TLS 1.2 for Skype Room System V2 requires Skype for Business Server 2015 Cummulative Update 9 (CU9) or Skype for Buisness Server 2019 Cummulative Update 1 (CU1). 
